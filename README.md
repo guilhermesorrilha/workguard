@@ -1,4 +1,4 @@
-# workguard
+# WorkGuard
 
 ## 📖 Descrição do Problema
 
